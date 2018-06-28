@@ -1,10 +1,10 @@
 /* Ed: the minimal edition theme.
- * ___________________   
- * \_   _____/\______ \  
- *  |    __)_  |    |  \ 
+ * ___________________
+ * \_   _____/\______ \
+ *  |    __)_  |    |  \
  *  |        \ |    `   \
  * /_______  //_______  /
- *         \/         \/ 
+ *         \/         \/
  * Designed, built, and released under an MIT license by @elotroalex and brill friends. See credits for more info.
  * Based on the Poole and Lanyon theme by @mdo. Learn more at
  * https://github.com/minicomp/ed.
@@ -190,7 +190,7 @@ mark {
 
 blockquote {
 	padding: 0rem 1.5rem 0rem 2rem;
-	margin: 0 0 20px 0; 
+	margin: 0 0 20px 0;
   color: $text-color;
 	border-left: none;
 	font-style: italic;
@@ -207,8 +207,8 @@ blockquote p:last-child {
   }
 }
 
-/* 
-* To add an attribution make sure to make a 
+/*
+* To add an attribution make sure to make a
 * line with the attribution class
 */
 
@@ -216,7 +216,7 @@ li.attribution {
   text-align: right;
   list-style: none;
   padding: 0rem 1.5rem 0rem 2rem;
-  margin: 0 0 20px 0; 
+  margin: 0 0 20px 0;
   color: $text-color;
 }
 
@@ -689,6 +689,14 @@ div.toc {
   text-align: left;
 }
 
+.indent1{
+  margin-left: 1.5em;
+}
+
+.indent2{
+  margin-left: 2.5em;
+}
+
 /* This snippet helps us reset the margin for all spans with the indent- class */
 
 .poetry span[class^='indent-']{
@@ -812,9 +820,9 @@ ol.bibliography {
 }
 
 
-/* Line layouts for prose-poetry and theater 
+/* Line layouts for prose-poetry and theater
 *
-* To use these layouts you need to add the classes to 
+* To use these layouts you need to add the classes to
 * your markdown or HTML lines. (ex. "- {:.centered} hello!")
 *
 */
@@ -837,11 +845,11 @@ li.attribution {
   text-align: right;
   list-style: none;
   padding: 0rem 1.5rem 0rem 2rem;
-  margin: 0 0 20px 0; 
+  margin: 0 0 20px 0;
   color: #454545;
 }
 
-li.prose { 
+li.prose {
   list-style-position: inside;
   margin-left: -1em;
   text-indent: 0;
@@ -850,6 +858,3 @@ li.prose {
 li.prose-indent {
   text-indent: 2rem;
 }
-
-
-
