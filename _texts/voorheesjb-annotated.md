@@ -37,10 +37,10 @@ Private, Base Hospital #8.">Ralph</button>:</p>
 
  I am very sorry that I could not attend the meeting of the Alumni Council on April 13th. These happen to be very busy days with me, as I plan to start shortly for overseas service in connection with the Y.M.C.A., my Church having granted me eight months leave of absence. 
 
-<p class="indent1">Very truly yours,</p>
+<p class="indent-1">Very truly yours,</p>
 
 
-<p class="indent2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, John Brownlee | Born: 1875. Died: 1919.
+<p class="indent-2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, John Brownlee | Born: 1875. Died: 1919.
 Minister.">John Brownlee Voorhees</button></p>
 
 * * * 
@@ -62,11 +62,11 @@ Minister.">Dr. Voorhees</button>: </p>
 
  I understand that you will leavershortly for overseas service with the Y.M.C.A. If you will send me your address, I shall be pleased to include you in the list of those who receive the benefits of our War Service Bureau. 
 
-<p class="indent1"> Wishing you success in this most interesting field of work, I am
+<p class="indent-1"> Wishing you success in this most interesting field of work, I am
  Sincerely yours, </p>
 
 
-<p class="indent2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Silvers, Earl Reed | Born: 1891. Died: 1948.
+<p class="indent-2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Silvers, Earl Reed | Born: 1891. Died: 1948.
 Director, War Service Bureau.">Director. 
 ERS/H</button></p>
 
@@ -92,10 +92,10 @@ Director, War Service Bureau.">Mr. Silvers</button>:</p>
 
 I leave this week for eight months Y.M.C.A. service overseas. My address will be American Y.M.C.A., <button data-balloon-pos="up" data-balloon-length="large" data-balloon="12 rue d'Aguesseau, Paris, France"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=48_52_13_N_2_19_10_E'>12 Rue d'Aggesseau, Paris, France</a> </button>. I shall certainly appreciate being included in the benefits of the Rutgers War Service Bureau. News from college will look good across the seas.
 
-<p class="indent1">Cordially ever,</p>
+<p class="indent-1">Cordially ever,</p>
 
 
-<p class="indent2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, John Brownlee | Born: 1875. Died: 1919.
+<p class="indent-2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, John Brownlee | Born: 1875. Died: 1919.
 Minister.">John Brownlee Voorhees</button></p>
 
 * * * 
@@ -135,10 +135,10 @@ It begins to look as if America had sent a real army overseas. Well, it has been
 
 Keep on with the letters. I shall be in the hospital some time yet.
 
-<p class="indent1">Yours ever</p>
+<p class="indent-1">Yours ever</p>
 
 
-<p class="indent2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, John Brownlee | Born: 1875. Died: 1919.
+<p class="indent-2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, John Brownlee | Born: 1875. Died: 1919.
 Minister.">John Brownlee Voorhees</button> '96</p>
 
 LSS _files [?]_
@@ -163,9 +163,9 @@ Your letter of September 18 was very welcome. Here at the college we have been w
 
 There must be a lot of satisfaction to you in the thought that you have served so bravely and courageously in the big cause in which you are enlisted.
 
-<p class="indent1">Very sincerely yours,</p>
+<p class="indent-1">Very sincerely yours,</p>
 
-<p class="indent2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Silvers, Earl Reed | Born: 1891. Died: 1948.
+<p class="indent-2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Silvers, Earl Reed | Born: 1891. Died: 1948.
 Director, War Service Bureau.">ERS/G</button></p>
 
 * * * 
@@ -186,7 +186,7 @@ Spouse.">Mrs. Voorhees</button>:</p>
  It is with very great regret that we have heard of the death of your husband, <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, John Brownlee | Born: 1875. Died: 1919.
 Minister.">Dr. J. Brownlee Voorhees</button>. May I express to you my deepest sympathy, both personally, and as Director of the War Service Bureau. Dr. Voorhees has sent us several letters from France and his continued optimism in the face of many difficulties has been a source of much inspiration for us. His loss is a big one and his place will be hard to fill, I know. 
 
-<p class="indent1">Very sincerely yours,</p>
+<p class="indent-1">Very sincerely yours,</p>
 
 * * * 
 
@@ -209,7 +209,7 @@ President, Rutgers College.">Dr. Demarest</button> has suggested that possibly y
 I hesitate to write <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, Juliana Deyo | Born: 1880. Died: 1956.
 Spouse.">Mrs. Voorhees</button> at this time. Will you please advise us, if you have not a picture!
 
-<p class="indent1">Thanking you,
+<p class="indent-1">Thanking you,
  I am
  Very sincerely yours,</p>
 
@@ -241,11 +241,11 @@ Spouse.">Mrs. Voorhees</button>, & you will probably hear from her directly.
 The only picture of <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, John Brownlee | Born: 1875. Died: 1919.
 Minister.">Dr. Voorhees</button> in my possession is also a picture of his first baby! This would hardly suit your purpose. Let me know if you are unsuccessful in hearing from Mrs. Voorhees.
 
-<p class="indent1">I am 
+<p class="indent-1">I am 
  Yours very truly,</p>
 
 
-<p class="indent2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Berg, Irving Husted | Born: 1878. Died: 1941.
+<p class="indent-2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Berg, Irving Husted | Born: 1878. Died: 1941.
 Minister.">Irving H. Berg</button></p>
 
 * * * 
@@ -272,9 +272,9 @@ I appreciate your writing to <button data-balloon-pos="up" data-balloon-length="
 Spouse.">Mrs. Voorhees</button>, and hope that the picture of <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, John Brownlee | Born: 1875. Died: 1919.
 Minister.">Dr. Voorhees</button> will reach us soon. I shall advise you if it does not come.
 
-<p class="indent1">Very sincerely yours,</p>
+<p class="indent-1">Very sincerely yours,</p>
 
-<p class="indent2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Silvers, Earl Reed | Born: 1891. Died: 1948.
+<p class="indent-2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Silvers, Earl Reed | Born: 1891. Died: 1948.
 Director, War Service Bureau.">ERS/W </button></p>
 
 * * * 
@@ -302,9 +302,9 @@ Minister.">Mr. Voorhees</button>. The college was always close to his _heart [?]
 
 I deeply appreciate your sympathy at this time.
 
-<p class="indent1">Very sincerely yours,</p>
+<p class="indent-1">Very sincerely yours,</p>
 
-<p class="indent2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, Juliana Deyo | Born: 1880. Died: 1956.
+<p class="indent-2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, Juliana Deyo | Born: 1880. Died: 1956.
 Spouse.">Juliana Deyo Voorhees</button></p>
 
 * * * 
