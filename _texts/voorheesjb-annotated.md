@@ -3,9 +3,9 @@ layout: narrative
 title: Voorhees, John Brownlee
 author: various
 mode: annotated
-editor:  Francesca Giannetti 
+editor:  Francesca Giannetti
 rights: No Known Copyright
-toc: 
+toc:
  - John Brownlee Voorhees to Ralph [W. Voorhees?], April 20, 1918
  - Earl Reed Silvers to John Brownlee Voorhees, April 25, 1918
  - John Brownlee Voorhees to Earl Reed Silvers, May 2, 1918
@@ -15,7 +15,7 @@ toc:
  - Earl Reed Silvers to Irving H. Berg, February 3, 1919
  - Irving H. Berg to Earl Reed Silvers, Feb. 4, 1919
  - Earl Reed Silvers to Irving H. Berg, Feb. 5, 1919
- - Juliana Deyo Voorhees to Earl Reed Silvers, n.d.
+ - Juliana Deyo Voorhees to Earl Reed Silvers
 ---
 
 Mss: <a href="https://doi.org/doi:10.7282/T38918PB" target="_blank"><img src="../../assets/photo-icon.png" alt="Manuscript pages" style="display:inline-block; margin-bottom:-3px;">https://doi.org/doi:10.7282/T38918PB</a>
@@ -35,7 +35,7 @@ JOHN BROWNLEE VOORHEES, MINISTER
 <p class="left">My dear <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, Ralph S. Jr. [?] | Born: 189-. Died: 19--.
 Private, Base Hospital #8.">Ralph</button>:</p>
 
- I am very sorry that I could not attend the meeting of the Alumni Council on April 13th. These happen to be very busy days with me, as I plan to start shortly for overseas service in connection with the Y.M.C.A., my Church having granted me eight months leave of absence. 
+ I am very sorry that I could not attend the meeting of the Alumni Council on April 13th. These happen to be very busy days with me, as I plan to start shortly for overseas service in connection with the Y.M.C.A., my Church having granted me eight months leave of absence.
 
 <p class="indent-1">Very truly yours,</p>
 
@@ -43,7 +43,7 @@ Private, Base Hospital #8.">Ralph</button>:</p>
 <p class="indent-2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, John Brownlee | Born: 1875. Died: 1919.
 Minister.">John Brownlee Voorhees</button></p>
 
-* * * 
+* * *
 
 ## Earl Reed Silvers to John Brownlee Voorhees, April 25, 1918
 
@@ -60,17 +60,17 @@ Asylum Hill Congregational Church,
 <p class="left">Dear <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, John Brownlee | Born: 1875. Died: 1919.
 Minister.">Dr. Voorhees</button>: </p>
 
- I understand that you will leavershortly for overseas service with the Y.M.C.A. If you will send me your address, I shall be pleased to include you in the list of those who receive the benefits of our War Service Bureau. 
+ I understand that you will leavershortly for overseas service with the Y.M.C.A. If you will send me your address, I shall be pleased to include you in the list of those who receive the benefits of our War Service Bureau.
 
 <p class="indent-1"> Wishing you success in this most interesting field of work, I am
  Sincerely yours, </p>
 
 
 <p class="indent-2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Silvers, Earl Reed | Born: 1891. Died: 1948.
-Director, War Service Bureau.">Director. 
+Director, War Service Bureau.">Director.
 ERS/H</button></p>
 
-* * * 
+* * *
 
 ## John Brownlee Voorhees to Earl Reed Silvers, May 2, 1918
 
@@ -98,7 +98,7 @@ I leave this week for eight months Y.M.C.A. service overseas. My address will be
 <p class="indent-2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, John Brownlee | Born: 1875. Died: 1919.
 Minister.">John Brownlee Voorhees</button></p>
 
-* * * 
+* * *
 
 ## John Brownlee Voorhees to Earl Reed Silvers, Sept 18, 1918
 
@@ -122,7 +122,7 @@ This is just to thank you for the War Service letters. I came over last May to w
                                     Congregationalist and Advance, vol. 104"> <a href="https://books.google.com/books?id=cbvsmqOcR1wC">the town</a> </button> where my hut was located. They demolished the hut and incidentally sent a chunk of high explosive through my right leg. The result has been that I have spent the summer of 1918 on the flat of my back with the aforesaid leg hung up in a complicated apparatus which has kept my right toe pointing at the North star for three months.
 
 <button data-balloon-pos="up" data-balloon-length="large" data-balloon="'cheerful, confident spirit' | From: Silvers, Earl Reed.
-                                Obituaries and Memorials, p. 54."> <a href="https://doi.org/doi:10.7282/T34M97D7">But it is not as bad as it sounds,</a> </button> and on the whole it has not been a bad summer. Uncle Sam's Army Hospitals are great institutions, and the best that medical science and surgical skill can offer is yours to command. Also it is cheap. I have saved at least $10000. in surgeon's fees by coming over to 
+                                Obituaries and Memorials, p. 54."> <a href="https://doi.org/doi:10.7282/T34M97D7">But it is not as bad as it sounds,</a> </button> and on the whole it has not been a bad summer. Uncle Sam's Army Hospitals are great institutions, and the best that medical science and surgical skill can offer is yours to command. Also it is cheap. I have saved at least $10000. in surgeon's fees by coming over to
 ### Page: 5
 
  to France to be shot up. So you see I am considerably ahead of the game.
@@ -144,7 +144,7 @@ Minister.">John Brownlee Voorhees</button> '96</p>
 LSS _files [?]_
 1st Lt 314th Engrs.
 
-* * * 
+* * *
 
 ## Earl Reed Silvers to John Brownlee Voorhees, October 24, 1918
 
@@ -154,7 +154,7 @@ LSS _files [?]_
 
 <p class="right">October 24, 1 9 18</p>
 <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, John Brownlee | Born: 1875. Died: 1919.
-Minister.">Dr. John B. Voorhees</button>, 
+Minister.">Dr. John B. Voorhees</button>,
 <button data-balloon-pos="up" data-balloon-length="large" data-balloon="U.S.A. Base Hospital No. 20, Châtel—Guyon, France"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=45.9233_N_3.065_E'>Base Hospital #20  American E.F.</a> </button>
 <p class="left">Dear <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, John Brownlee | Born: 1875. Died: 1919.
 Minister.">Dr. Voorhees</button>:</p>
@@ -168,7 +168,7 @@ There must be a lot of satisfaction to you in the thought that you have served s
 <p class="indent-2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Silvers, Earl Reed | Born: 1891. Died: 1948.
 Director, War Service Bureau.">ERS/G</button></p>
 
-* * * 
+* * *
 
 ## Earl Reed Silvers to Juliana Deyo Voorhees, January 13, 1919
 
@@ -184,11 +184,11 @@ Spouse.">Mrs. J. Brownlee Voorhees</button>,
 Spouse.">Mrs. Voorhees</button>:</p>
 
  It is with very great regret that we have heard of the death of your husband, <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, John Brownlee | Born: 1875. Died: 1919.
-Minister.">Dr. J. Brownlee Voorhees</button>. May I express to you my deepest sympathy, both personally, and as Director of the War Service Bureau. Dr. Voorhees has sent us several letters from France and his continued optimism in the face of many difficulties has been a source of much inspiration for us. His loss is a big one and his place will be hard to fill, I know. 
+Minister.">Dr. J. Brownlee Voorhees</button>. May I express to you my deepest sympathy, both personally, and as Director of the War Service Bureau. Dr. Voorhees has sent us several letters from France and his continued optimism in the face of many difficulties has been a source of much inspiration for us. His loss is a big one and his place will be hard to fill, I know.
 
 <p class="indent-1">Very sincerely yours,</p>
 
-* * * 
+* * *
 
 ## Earl Reed Silvers to Irving H. Berg, February 3, 1919
 
@@ -213,7 +213,7 @@ Spouse.">Mrs. Voorhees</button> at this time. Will you please advise us, if you 
  I am
  Very sincerely yours,</p>
 
-* * * 
+* * *
 
 ## Irving H. Berg to Earl Reed Silvers, Feb. 4, 1919
 
@@ -241,14 +241,14 @@ Spouse.">Mrs. Voorhees</button>, & you will probably hear from her directly.
 The only picture of <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, John Brownlee | Born: 1875. Died: 1919.
 Minister.">Dr. Voorhees</button> in my possession is also a picture of his first baby! This would hardly suit your purpose. Let me know if you are unsuccessful in hearing from Mrs. Voorhees.
 
-<p class="indent-1">I am 
+<p class="indent-1">I am
  Yours very truly,</p>
 
 
 <p class="indent-2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Berg, Irving Husted | Born: 1878. Died: 1941.
 Minister.">Irving H. Berg</button></p>
 
-* * * 
+* * *
 
 ## Earl Reed Silvers to Irving H. Berg, Feb. 5, 1919
 
@@ -260,7 +260,7 @@ Minister.">Irving H. Berg</button></p>
 <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Berg, Irving Husted | Born: 1878. Died: 1941.
 Minister.">Rev. Irving H. Berg,</button>
 Fort Washington Collegiate Church,
-<button data-balloon-pos="up" data-balloon-length="large" data-balloon="729 West 181st Street, New York, NY 10033"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=40_51_3_N_73_56_23_W'>729 West 181st St.</a> </button>, 
+<button data-balloon-pos="up" data-balloon-length="large" data-balloon="729 West 181st Street, New York, NY 10033"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=40_51_3_N_73_56_23_W'>729 West 181st St.</a> </button>,
 New York City.
 
 <p class="left">My dear <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Berg, Irving Husted | Born: 1878. Died: 1941.
@@ -277,9 +277,9 @@ Minister.">Dr. Voorhees</button> will reach us soon. I shall advise you if it do
 <p class="indent-2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Silvers, Earl Reed | Born: 1891. Died: 1948.
 Director, War Service Bureau.">ERS/W </button></p>
 
-* * * 
+* * *
 
-## Juliana Deyo Voorhees to Earl Reed Silvers, n.d.
+## Juliana Deyo Voorhees to Earl Reed Silvers
 
 
 ### Page: 12
@@ -292,13 +292,13 @@ HARTFORD, CONN
 Director, War Service Bureau.">Silvers</button>,</p>
 
 <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Berg, Irving Husted | Born: 1878. Died: 1941.
-Minister.">Dr. Berg</button> sent me your _[?]_ request for a picture of my husband. some had been ordered and they have just arrived after all these weeks. I am sending _one [?]_ to you under _separate cover [?]_. I understand you will 
+Minister.">Dr. Berg</button> sent me your _[?]_ request for a picture of my husband. some had been ordered and they have just arrived after all these weeks. I am sending _one [?]_ to you under _separate cover [?]_. I understand you will
 ### Page: 13
 
- return it. 
+ return it.
 
 There was certainly no more loyal son of Rutgers than <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, John Brownlee | Born: 1875. Died: 1919.
-Minister.">Mr. Voorhees</button>. The college was always close to his _heart [?]_. 
+Minister.">Mr. Voorhees</button>. The college was always close to his _heart [?]_.
 
 I deeply appreciate your sympathy at this time.
 
@@ -307,4 +307,4 @@ I deeply appreciate your sympathy at this time.
 <p class="indent-2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, Juliana Deyo | Born: 1880. Died: 1956.
 Spouse.">Juliana Deyo Voorhees</button></p>
 
-* * * 
+* * *
