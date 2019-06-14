@@ -28,9 +28,9 @@ Mss: <a href="https://doi.org/doi:10.7282/T38918PB" target="_blank"><img src="..
 
 ### Page: 1
 
-<p class="centered large">ASYLUM HILL CONGREGATIONAL CHURCH
-HARTFORD, CONN.
-JOHN BROWNLEE VOORHEES, MINISTER
+<p class="centered large">ASYLUM HILL CONGREGATIONAL CHURCH  
+HARTFORD, CONN.  
+JOHN BROWNLEE VOORHEES, MINISTER  
 <button data-balloon-pos="up" data-balloon-length="large" data-balloon="854 Asylum Ave., Hartford, CT"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=41_46_12_N_72_41_43_W'>854 ASYLUM AVE.</a> </button>
 </p>
 <p class="right">April 20, 1918.</p>
@@ -56,16 +56,16 @@ Minister.">John Brownlee Voorhees</button></p>
 
 <p class="right">April 25, 1918.</p>
 <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, John Brownlee | Born: 1875. Died: 1919.
-Minister.">Dr. J. B. Voorhees,</button>
-Asylum Hill Congregational Church,
-<button data-balloon-pos="up" data-balloon-length="large" data-balloon="854 Asylum Ave., Hartford, CT"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=41_46_12_N_72_41_43_W'> 854 Asylum Ave. Hartford, Conn.</a> </button>
+Minister.">Dr. J. B. Voorhees,</button>  
+Asylum Hill Congregational Church,  
+<button data-balloon-pos="up" data-balloon-length="large" data-balloon="854 Asylum Ave., Hartford, CT"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=41_46_12_N_72_41_43_W'> 854 Asylum Ave. Hartford, Conn.</a> </button>  
 
 <p class="left">Dear <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, John Brownlee | Born: 1875. Died: 1919.
 Minister.">Dr. Voorhees</button>: </p>
 
  I understand that you will leavershortly for overseas service with the Y.M.C.A. If you will send me your address, I shall be pleased to include you in the list of those who receive the benefits of our War Service Bureau. 
 
-<p class="indent-1"> Wishing you success in this most interesting field of work, I am
+<p class="indent-1"> Wishing you success in this most interesting field of work, I am  
  Sincerely yours, </p>
 
 
@@ -80,11 +80,11 @@ ERS/H</button></p>
 
 ### Page: 3
 
-<p class="centered large">ASYLUM HILL CONGREGATIONAL CHURCH
-HARTFORD, CONN.
-JOHN BROWNLEE VOORHEES, MINISTER
+<p class="centered large">ASYLUM HILL CONGREGATIONAL CHURCH  
+HARTFORD, CONN.  
+JOHN BROWNLEE VOORHEES, MINISTER  
 <button data-balloon-pos="up" data-balloon-length="large" data-balloon="854 Asylum Ave., Hartford, CT"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=41_46_12_N_72_41_43_W'>854 ASYLUM AVE.</a> </button>
-</p>
+</p>  
 <p class="right">May 2, 1918.</p>
 <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Silvers, Earl Reed | Born: 1891. Died: 1948.
 Director, War Service Bureau.">Mr. Earl Reed Silvers,</button>
@@ -112,7 +112,7 @@ Minister.">John Brownlee Voorhees</button></p>
  AMERICAN PEOPLE
  THROUGH THE
  AMERICAN RED CROSS
- TO THOSE IN SERVICE</p><button data-balloon-pos="up" data-balloon-length="large" data-balloon="U.S.A. Base Hospital No. 20, Châtel—Guyon, France"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=45.9233_N_3.065_E'>U.S.A. Base Hospital No. 20</a> </button>
+ TO THOSE IN SERVICE</p><button data-balloon-pos="up" data-balloon-length="large" data-balloon="U.S.A. Base Hospital No. 20, Châtel—Guyon, France"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=45.9233_N_3.065_E'>U.S.A. Base Hospital No. 20</a> </button>  
 Central France.
 
 <p class="right">Sept 18, 1918</p>
@@ -144,7 +144,7 @@ Keep on with the letters. I shall be in the hospital some time yet.
 <p class="indent-2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, John Brownlee | Born: 1875. Died: 1919.
 Minister.">John Brownlee Voorhees</button> '96</p>
 
-LSS _files [?]_
+LSS _files [?]_  
 1st Lt 314th Engrs.
 
 * * * 
@@ -157,7 +157,7 @@ LSS _files [?]_
 
 <p class="right">October 24, 1 9 18</p>
 <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, John Brownlee | Born: 1875. Died: 1919.
-Minister.">Dr. John B. Voorhees</button>, 
+Minister.">Dr. John B. Voorhees</button>,  
 <button data-balloon-pos="up" data-balloon-length="large" data-balloon="U.S.A. Base Hospital No. 20, Châtel—Guyon, France"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=45.9233_N_3.065_E'>Base Hospital #20  American E.F.</a> </button>
 <p class="left">Dear <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, John Brownlee | Born: 1875. Died: 1919.
 Minister.">Dr. Voorhees</button>:</p>
@@ -201,7 +201,7 @@ Minister.">Dr. J. Brownlee Voorhees</button>. May I express to you my deepest sy
 
 <p class="right">February 3, 1919</p>
 <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Berg, Irving Husted | Born: 1878. Died: 1941.
-Minister.">Rev. Irving H. Berg</button>,
+Minister.">Rev. Irving H. Berg</button>,  
 <button data-balloon-pos="up" data-balloon-length="large" data-balloon="2611 Sedgwick Ave, New York, NY"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=40_52_8_N_73_54_19_W'>2611 Sedgewick Avenue, New York, N.Y.</a> </button>
 <p class="left">Dear Mr. Berg;—</p>
 
@@ -212,8 +212,8 @@ President, Rutgers College.">Dr. Demarest</button> has suggested that possibly y
 I hesitate to write <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, Juliana Deyo | Born: 1880. Died: 1956.
 Spouse.">Mrs. Voorhees</button> at this time. Will you please advise us, if you have not a picture!
 
-<p class="indent-1">Thanking you,
- I am
+<p class="indent-1">Thanking you,  
+ I am  
  Very sincerely yours,</p>
 
 * * * 
@@ -223,17 +223,18 @@ Spouse.">Mrs. Voorhees</button> at this time. Will you please advise us, if you 
 
 ### Page: 10
 
-<p class="centered large">FORT WASHINGTON COLLEGIATE CHURCH
-IRVING HUSTED BERG, MINISTER
-<button data-balloon-pos="up" data-balloon-length="large" data-balloon="729 West 181st Street, New York, NY 10033"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=40_51_3_N_73_56_23_W'>729 WEST 181ST STREET NEW YORK</a> </button>
-TELEPHONE
-ST. NICHOLAS 2942
-</p><button data-balloon-pos="up" data-balloon-length="large" data-balloon="2611 Sedgwick Ave, New York, NY"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=40_52_8_N_73_54_19_W'>2611 Sedgwick Ave.,</a> </button>
+<p class="centered large">FORT WASHINGTON COLLEGIATE CHURCH  
+IRVING HUSTED BERG, MINISTER  
+<button data-balloon-pos="up" data-balloon-length="large" data-balloon="729 West 181st Street, New York, NY 10033"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=40_51_3_N_73_56_23_W'>729 WEST 181ST STREET NEW YORK</a> </button>  
+TELEPHONE  
+ST. NICHOLAS 2942  
+</p>
+<p class="right"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="2611 Sedgwick Ave, New York, NY"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=40_52_8_N_73_54_19_W'>2611 Sedgwick Ave.,</a> </button></p>
 <p class="right">Feb. 4, 1919</p>
 <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Silvers, Earl Reed | Born: 1891. Died: 1948.
 Director, War Service Bureau.">Mr. Earl Reed Silvers,</button>
-War Service Bureau,
-<button data-balloon-pos="up" data-balloon-length="large" data-balloon="Rutgers College, New Brunswick, NJ"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=40_29_55_N_74_26_54_W'>Rutgers College, New Brunswick, N.J.</a> </button>
+War Service Bureau,  
+<button data-balloon-pos="up" data-balloon-length="large" data-balloon="Rutgers College, New Brunswick, NJ"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=40_29_55_N_74_26_54_W'>Rutgers College, New Brunswick, N.J.</a> </button>  
 
 <p class="left">Dear <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Silvers, Earl Reed | Born: 1891. Died: 1948.
 Director, War Service Bureau.">Mr. Silvers</button>:—</p>
@@ -244,7 +245,7 @@ Spouse.">Mrs. Voorhees</button>, & you will probably hear from her directly.
 The only picture of <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, John Brownlee | Born: 1875. Died: 1919.
 Minister.">Dr. Voorhees</button> in my possession is also a picture of his first baby! This would hardly suit your purpose. Let me know if you are unsuccessful in hearing from Mrs. Voorhees.
 
-<p class="indent-1">I am 
+<p class="indent-1">I am  
  Yours very truly,</p>
 
 
@@ -259,12 +260,12 @@ Minister.">Irving H. Berg</button></p>
 ### Page: 11
 
 
-<p class="right">February Fifth 1 9 1 9</p>
+<p class="right">February Fifth 1 9 1 9</p>  
 <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Berg, Irving Husted | Born: 1878. Died: 1941.
-Minister.">Rev. Irving H. Berg,</button>
-Fort Washington Collegiate Church,
-<button data-balloon-pos="up" data-balloon-length="large" data-balloon="729 West 181st Street, New York, NY 10033"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=40_51_3_N_73_56_23_W'>729 West 181st St.</a> </button>, 
-New York City.
+Minister.">Rev. Irving H. Berg,</button>  
+Fort Washington Collegiate Church,  
+<button data-balloon-pos="up" data-balloon-length="large" data-balloon="729 West 181st Street, New York, NY 10033"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=40_51_3_N_73_56_23_W'>729 West 181st St.</a> </button>,  
+New York City.  
 
 <p class="left">My dear <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Berg, Irving Husted | Born: 1878. Died: 1941.
 Minister.">Dr. Berg</button>:——</p>
@@ -287,9 +288,9 @@ Director, War Service Bureau.">ERS/W </button></p>
 
 ### Page: 12
 
-<p class="centered large">THE PARSONAGE
-<button data-balloon-pos="up" data-balloon-length="large" data-balloon="854 Asylum Ave., Hartford, CT"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=41_46_12_N_72_41_43_W'>854 ASYLUM AVENUE</a> </button>
-HARTFORD, CONN
+<p class="centered large">THE PARSONAGE  
+<button data-balloon-pos="up" data-balloon-length="large" data-balloon="854 Asylum Ave., Hartford, CT"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=41_46_12_N_72_41_43_W'>854 ASYLUM AVENUE</a> </button>  
+HARTFORD, CONN  
 </p>
 <p class="left">My dear <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Silvers, Earl Reed | Born: 1891. Died: 1948.
 Director, War Service Bureau.">Silvers</button>,</p>
@@ -318,10 +319,10 @@ march _eleventh [?]_
 ### Page: 14
 
 
-<p class="right">March 17th, 1919.</p>
-Mrs. Julian D. Voorhees,
-854 Aslylum Avenue,
-Hartford, Conn.
+<p class="right">March 17th, 1919.</p>  
+Mrs. Julian D. Voorhees,  
+854 Aslylum Avenue,  
+Hartford, Conn.  
 
 <p class="left">My dear <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, Juliana Deyo | Born: 1880. Died: 1956.
 Spouse.">Mrs. Voorhees</button>;—</p>
@@ -339,9 +340,9 @@ We shall take excellent care of it and return it to you within the next two week
 
 ### Page: 15
 
-<button data-balloon-pos="up" data-balloon-length="large" data-balloon="205 Tuttle Ave, Spring Lake, NJ"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=40_9_30_N_74_1_33_W'>205 Tuttle Ave</a> </button>
-Spring Lake
-NJ.
+<button data-balloon-pos="up" data-balloon-length="large" data-balloon="205 Tuttle Ave, Spring Lake, NJ"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=40_9_30_N_74_1_33_W'>205 Tuttle Ave</a> </button>  
+Spring Lake  
+NJ.  
 
 <p class="left">My dear <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Silvers, Earl Reed | Born: 1891. Died: 1948.
 Director, War Service Bureau.">Mr. Silvers</button>.</p>
@@ -370,7 +371,7 @@ July 10 —
 <button data-balloon-pos="up" data-balloon-length="large" data-balloon=" | Born: . Died: .
 .">Mrs. J. B. Voorhees</button>,
 <button data-balloon-pos="up" data-balloon-length="large" data-balloon="205 Tuttle Ave, Spring Lake, NJ"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=40_9_30_N_74_1_33_W'>205 Tuttle Ave.</a> </button>,
-Spring Lake, N. J.
+Spring Lake, N. J.  
 
 <p class="left">My dear <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, Juliana Deyo | Born: 1880. Died: 1956.
 Spouse.">Mrs. Voorhees</button>:—</p>
