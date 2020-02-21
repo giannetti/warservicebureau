@@ -3,10 +3,11 @@ layout: narrative
 title: Conklin, Sherman Lindsley
 author: various
 mode: annotated
-editor: Juan Martinez Aviles, Elijah McDaniel
+editor: Juan Martinez Aviles, Elijah McDaniel, Steven Mai
 rights: No Known Copyright
 toc: 
  - Various to Elizabeth J. Conklin, June 17, 1918
+ - Earl Reed Silvers to Elizabeth J. Conklin, September 3, 1918
  - Earl Reed Silvers to Elizabeth J. Conklin, January 31, 1919
 ---
 
@@ -19,8 +20,8 @@ Mss: <a href="https://doi.org/doi:10.7282/T3MC92RK" target="_blank"><img src="..
 
 
 <p class="right">June 17th 1918.</p>
-S.S.U.NO. 635  
-<button data-balloon-pos="up" data-balloon-length="large" data-balloon="Montgobert, France"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=49_18_28_N_3_8_57_E'>With the French Army.</a> </button>
+S.S.U.NO. 635<br><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Montgobert, France"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=49_18_28_N_3_8_57_E'>With
+                        the French Army.</a> </button><br>
 <p class="left">My dear Mrs. <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Lindsley, Elizabeth Jane | Born: 1852. Died: 19--.
 Mother.">Conklin</button>:</p>
 
@@ -33,50 +34,74 @@ Our sorrow and our loss are too great to be conveyed in words, but we want you t
 If we could be of any service at all to you, please let us know.
 
 <p class="indent-1"> Sincerely,</p>
+<br>
+<p class="indent-2">
+Ethelbert D. Warfield, Jr.<br>
+R.B.Johnson,<br>
+James W.D.Seymour,<br>
+William A.Edwards,<br>
+Albert L.Gandy,<br>
+James F.Hunter,<br>
+Berbard A. Bridget<br>
+Chas.M.Peck,<br>
+John K. Tellien,<br>
+Hugh Ward Lutz,<br>
+James Palmer,<br>
+William W. McCarthy<br>
+Carleton Day Wright,<br>
+John V.Ward,Jr.,<br>
+Edmund J. Coolidge,<br>
+John C. Farmer,<br>
+Samuel Bernstein,<br>
+Chester McArthur,<br>
+C. Hayne Walton,<br>
+Charles S. Richardson,<br>
+Guy C.Bishop,<br>
+Walter G. Garritt,<br>
+William H.Richards,<br>
+Gouverneur Smyth,<br>
+Edwin W. Gheer,<br>
+Charles H. Christian,<br>
+J. DeWitt Toll, Jr.,<br>
+W.B. Wood,<br>
+Lewis W. Mustard,Jr.,<br>
+William P. Church,<br>
+James F. Hunter,<br>
+J.P Fletcher</p>
 
-Ethelbert D. Warfield, Jr.  
-R.B.Johnson,  
-James W.D.Seymour,  
-William A.Edwards,  
-Albert L.Gandy,  
-James F.Hunter,  
-Berbard A. Bridget  
-Chas.M.Peck,  
-John K. Tellien,  
-Hugh Ward Lutz,  
-James Palmer,  
-William W. McCarthy  
-Carleton Day Wright,  
-John V.Ward,Jr.,  
-Edmund J. Coolidge,  
-John C. Farmer,  
-Samuel Bernstein,  
-Chester McArthur,  
-C. Hayne Walton,  
-Charles S. Richardson,  
-Guy C.Bishop,  
-Walter G. Garritt,  
-William H.Richards,  
-Gouverneur Smyth,  
-Edwin W. Gheer,  
-Charles H. Christian,  
-J. DeWitt Toll, Jr.,  
-W.B. Wood,  
-Lewis W. Mustard,Jr.,  
-William P. Church,  
-James F. Hunter,  
-J.P Fletcher 
- 
 ### Page: 4
 
-Howard W.Vander Voorth,  
-J.P. Fletcher,  
-Joaquin B. Calvo.  
-1st Lieut. B. K Niftel.  
-John M. Nazel,(in hospital),  
-Sidney M.Eddy, " "  
-Herbert Harvey, " "  
-Robert Ogden, (in Officers' School).  
+<p class="indent-2">Howard W.Vander Voorth,<br>
+J.P. Fletcher,<br>
+Joaquin B. Calvo.<br>
+1st Lieut. B. K Niftel.<br>
+John M. Nazel,(in hospital),<br>
+Sidney M.Eddy, " "<br>
+Herbert Harvey, " "<br>
+Robert Ogden, (in Officers' School).<br></p>
+
+* * * 
+
+## Earl Reed Silvers to Elizabeth J. Conklin, September 3, 1918
+
+
+### Page: 26
+
+
+<p class="right">September 3,1918.</p>
+Mrs. J. W. Conklin,<br><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Newark, N.J."><a href='https://tools.wmflabs.org/geohack/geohack.php?params=40_43_11_N_74_10_12_W'>263 Belleville Avenue,</a> </button><br>Newark, N.J.<br>
+<p class="left">Dear <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Conklin, Elizabeth | Born: 1852. Died: 19--.
+Mother.">Mrs. Conklin</button>,</p>
+
+ We are anxious to have <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Conklin, Sherman | Born: 1894. Died: 1918.
+Private.">Sherman</button>'s picture in the October issue of the <button data-balloon-pos="up" data-balloon-length="large" data-balloon="The first incarnation of what is now the Rutgers Magazine  | From: Rutgers University Libraries"> <a href="https://www.libraries.rutgers.edu/alumni/rutgers_magazine">RUTGERS ALUMNI QUARTERLY</a> </button> together with a full account of his life and death. We shall be very grateful if you will send us a photograph of him; also whatever details you may have about his death. perhaps a letter or two from his comrades, or a letter from Sherman himself. Everything will be well taken care of and returned to you undamaged within a week of its receipt. 
+
+ Sherman's death was a big shock to his many friends at the college. His life was so full of promise that it seemed wrong, somehow, to have it cut off so abruptly. But it must be a world of comfort to you to have hod such a son. I am sure that he died with a smile on his lips, and with the knowledge that he had not made so splendid a sacrifice in vain. We Rutgers men are very proud of him. 
+
+<p class="indent-1">Very sincerely yours,</p>
+<br>
+<p class="indent-2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Silvers, Earl Reed | Born: 1891. Died: 1948.
+Director, War Service Bureau."></button></p>
 
 * * * 
 
@@ -88,10 +113,7 @@ Robert Ogden, (in Officers' School).  
 
 <p class="right">January 31, 1919</p>
 <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Lindsley, Elizabeth Jane | Born: 1852. Died: 19--.
-Mother.">Mrs.Elizabeth J. Conklin</button>  
-<button data-balloon-pos="up" data-balloon-length="large" data-balloon="San Antonio, Texas"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=29_27_0_N_98_29_35_W'>135 East French Place</a> </button>  
-San Antonia, Texas
-
+Mother.">Mrs.Elizabeth J. Conklin</button><br><button data-balloon-pos="up" data-balloon-length="large" data-balloon="San Antonio, Texas"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=29_27_0_N_98_29_35_W'>135 East French Place</a> </button><br>San Antonia, Texas<br>
 <p class="left">Dear Mrs.Conklin</p>
 
 I would gladly send you fifty copies of the October issue of the Quarterly if we had them, but calls have been so frequent and many that there are only twenty left. For college records and filing purposes, we should really have more than that number. 
@@ -105,8 +127,7 @@ Just as soon as things are straightened out here at the college, I shall take up
                             July 11, 1918"> <a href="https://doi.org/doi:10.7282/T34M97D7">Sherman's writings</a> </button>. What a splendid tribute to him appeared in the current Christian Intelligencer.
 
 <p class="indent-1">Sincerely yours,</p>
-
-
+<br>
 <p class="indent-2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Silvers, Earl Reed | Born: 1891. Died: 1948.
 Director, War Service Bureau."></button></p>
 

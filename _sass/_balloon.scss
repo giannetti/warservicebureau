@@ -7,7 +7,7 @@
 // Variables
 // -----------------------------------------
 
-$balloon-bg:             fade-out(#404040, .1);
+$balloon-bg:             fade-out(#111, .1);
 $balloon-base-size:      12px;
 $balloon-arrow-height:   6px;
 $dark-grey:              #A9A9A9;
@@ -305,7 +305,7 @@ div#smallscreens {
   div#annotatededition {
     display: none;
   }
-  
+
   div#smallscreens {
   display:inline;
   }
