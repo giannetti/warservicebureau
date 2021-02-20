@@ -3,7 +3,7 @@
 # Setup
 title:               'War Service Bureau'
 tagline:             'personal correspondence from the Rutgers College War Service Bureau'
-description:         'A minimal edition created by Rutgers Future Scholars.'
+description:         'A minimal documentary edition.'
 url:                 'http://rutgersdh.github.io'
 baseurl:             '/warservicebureau'
 

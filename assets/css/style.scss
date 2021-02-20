@@ -12,6 +12,7 @@ sitemap: false
 /* FONTS */
 
 $main-font: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+$pre-printed-font: "Courier", monospace; /* fg added */
 $heading-font: sans-serif;
 $regular-font-size: 20px;
 
@@ -25,7 +26,7 @@ $regular-font-size: 20px;
 $text-color: #454545;
 $heading-color: #404040;
 $link-color: #841212;
-
+$pre-printed-color: #8c8c8c; /* fg added */
 
 @import "balloon";
 @import "ed";
