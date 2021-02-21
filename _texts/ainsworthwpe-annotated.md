@@ -23,7 +23,7 @@ Mss: <a href="https://doi.org/doi:10.7282/T3DF6TXM" target="_blank"><img src="..
 
 <p class="small centered"> - Page: 3 - </p>
 
-2nd Training Camp C.A.C.<br><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Fort Monroe, VA"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=37_00_13_N_76_18_27_W'>Fortress Monroe Va.</a> </button><br>
+<p class="right">2nd Training Camp C.A.C.<br><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Fort Monroe, VA"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=37_00_13_N_76_18_27_W'>Fortress Monroe Va.</a> </button></p>
 <p class="right">June 30, 1917.</p>
 
 <p class="left">Dear <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Silvers, Earl Reed | Born: 1891. Died: 1948.
@@ -64,7 +64,7 @@ Captain, Coast Artillery Corps.">Pete</button></p>
 
 <p class="small centered"> - Page: 6 - </p>
 
-2nd Training Co. C.A.C.<br><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Fort Monroe, VA"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=37_00_13_N_76_18_27_W'>Fortress Monroe Va</a> </button><br>
+<p class="right">2nd Training Co. C.A.C.<br><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Fort Monroe, VA"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=37_00_13_N_76_18_27_W'>Fortress Monroe Va</a> </button></p>
 <p class="right">July 6, 1917</p>
 
 <p class="left">Dear <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Silvers, Earl Reed | Born: 1891. Died: 1948.
@@ -107,7 +107,7 @@ Captain, Coast Artillery Corps.">Pete</button></p>
 
 <p class="small centered"> - Page: 9 - </p>
 
-#6 Quarter<br><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Fort Hancock, NJ"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=40_27_50_N_74_00_10_W'> Fort Hancock</a> </button>,<br>Sandy Hook, N.J.<br>
+<p class="right">#6 Quarter<br><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Fort Hancock, NJ"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=40_27_50_N_74_00_10_W'> Fort Hancock</a> </button>,<br>Sandy Hook, N.J.</p>
 <p class="left">Dear <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Silvers, Earl Reed | Born: 1891. Died: 1948.
 Director, War Service Bureau.">Reed</button>:</p>
 
@@ -169,7 +169,8 @@ I received the usual form of Postal this morning advising me of the safe arrival
 
 <p class="indent-1">With regards to the <i>college [?]</i><br> I am sincerely yours </p>
 <br>
-<p class="indent-2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Ainsworth, George C. | Born: 1867. Died: 1954. Father."><i>Geo [?]</i> C. Ainsworth</button></p>
+<p class="indent-2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Ainsworth, George C. | Born: 1867. Died: 1954.
+    Father."><i>Geo [?]</i> C. Ainsworth</button></p>
 
 In Wm's letter he said "Tell Reed to send any mail to my new address"
 
@@ -209,6 +210,9 @@ Captain, Coast Artillery Corps.">Pete</button>. I shall most certainly write to 
 * * * 
 
 ## William P. E. Ainsworth to Earl Reed Silvers, June 7, 1918
+
+
+<p class="small centered"> - Page: 17 - </p>
 
 
 <p class="right">Somewhere in France. June 7, 1918</p>
