@@ -8,6 +8,6 @@ The War Service Bureau edition is an ongoing pedagogical project to teach digita
 
 ## Data and Software
 
-The War Service Bureau digital edition uses the [Jekyll](https://jekyllrb.com/) static site generator with Alex Gil's [Ed theme](https://minicomp.github.io/ed/) for minimal editions. 
+The War Service Bureau digital edition uses the [Jekyll](https://jekyllrb.com/) static site generator with the [Ed theme](https://minicomp.github.io/ed/) for minimal editions. 
 
-The TEI-XML encodings of the letters, together with the project schema and various processing stylesheets, can be found at <https://github.com/rutgersdh/wsb-data>.
+The TEI-XML encodings of the letters, together with the project schema and various processing stylesheets, may be found at <https://github.com/rutgersdh/wsb-data>.
